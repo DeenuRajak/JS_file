@@ -1,4 +1,5 @@
 // Immediately Invoked Function Expressions (IIFE)
+//Global scope's polution cause problems so, to avoid global scope polutions (variable) we need Immediately Invoked function expressions (IIFE)
 
 
 (function chai(){
