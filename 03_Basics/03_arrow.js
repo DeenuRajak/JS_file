@@ -9,7 +9,7 @@ const user = {
 
 }
 
-// user.welcomeMessage()
+user.welcomeMessage()
 // user.username = "sam"
 // user.welcomeMessage()
 
@@ -46,7 +46,7 @@ const chai =  () => {
 const addTwo = (num1, num2) => ({username: "hitesh"})
 
 
-console.log(addTwo(3, 4))
+// console.log(addTwo(3, 4))
 
 
 // const myArray = [2, 5, 3, 7, 8]
